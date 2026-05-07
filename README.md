@@ -27,8 +27,8 @@ This project focuses on Data Analytics & Business Intelligence using Power BI.
 * Technology category showed strong profitability.
 
 ## Dashboard Preview
+<img width="1416" height="736" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/3f676d45-559c-4e8f-ae71-2e380567f4f8" />
 
-(Add your dashboard screenshot here)
 
 ## Project Files
 
